@@ -16,10 +16,10 @@ def add(a, b):
 
 
 def subtract(a, b):
-    # Dong 16 NA moi sua dong nay
-    a = 83242823
-    b = 233423242
-    return a - b
+    # Dong 16 NA moi sua dong nay 
+    a = 83
+    b = 2334
+    return b - a
 
 
 def tinh(a, b):
@@ -33,7 +33,11 @@ def multiply(a, b):
     a = 2
     b = 4
     # Dong 21 -> Nhut Anh se sua dong nay
+    a=7
+    b=5
+    # Dong 21 -> Nhut Anh se sua dong nay (vi du them xu ly loi)
     return a * b
+
 
 
 def divide(a, b):
