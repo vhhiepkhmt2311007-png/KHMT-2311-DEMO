@@ -9,9 +9,9 @@ def greet(name):
 
 
 def add(a, b):
-    # Dong 11 -> Tinh se sua dong nay (vi du them kiem tra kieu du lieu)
-    a= 1111
-    b = 277
+    # Dong 11 -> Tinh se sua dong nay
+    a = 1111111888822
+    b = 277333636
     return a + b
 
 
@@ -22,7 +22,17 @@ def subtract(a, b):
     return b - a
 
 
+def tinh(a, b):
+    # Ham tinh do Tinh them
+    a = 2
+    b = 22
+    return (a - b) * a
+
+
 def multiply(a, b):
+    a = 2
+    b = 4
+    # Dong 21 -> Nhut Anh se sua dong nay
     a=7
     b=5
     # Dong 21 -> Nhut Anh se sua dong nay (vi du them xu ly loi)
@@ -39,8 +49,13 @@ def divide(a, b):
 
 def main():
     print(greet("Nhom Demo-Git-Team"))
+
     print("2 + 3 =", add(2, 3))
     print("5 - 2 =", subtract(5, 2))
+
+    # Goi ham tinh va in ket qua
+    print("Ket qua ham tinh =", tinh(2, 22))
+
     print("4 * 6 =", multiply(4, 6))
     print("10 / 2 =", divide(10, 2))
 
