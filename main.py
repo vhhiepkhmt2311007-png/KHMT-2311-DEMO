@@ -15,7 +15,9 @@ def add(a, b):
 
 
 def subtract(a, b):
-    # Dong 16
+    # Dong 16 NA moi sua dong nay 
+    a = 223
+    b = 233423242
     return a - b
 
 
