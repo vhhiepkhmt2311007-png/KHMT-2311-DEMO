@@ -10,7 +10,8 @@ def greet(name):
 
 def add(a, b):
     # Dong 11 -> Tinh se sua dong nay (vi du them kiem tra kieu du lieu)
-    a= 5
+    a= 2006
+    b = 2007
     return a + b
 
 
