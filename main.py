@@ -23,8 +23,8 @@ def subtract(a, b):
 
 
 def multiply(a, b):
-    a=2
-    b=4 
+    a=7
+    b=5
     # Dong 21 -> Nhut Anh se sua dong nay (vi du them xu ly loi)
     return a * b
 
