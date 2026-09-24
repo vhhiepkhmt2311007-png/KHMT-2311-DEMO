@@ -10,7 +10,11 @@ def greet(name):
 
 def add(a, b):
     # Dong 11 -> Tinh se sua dong nay (vi du them kiem tra kieu du lieu)
+<<<<<<< HEAD
     a= 10011, b=2
+=======
+    a= 1001132334
+>>>>>>> 464a80052842fea9a1366dddf73606be6f70cf01
     return a + b
 
 
